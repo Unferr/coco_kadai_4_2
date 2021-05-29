@@ -1,0 +1,37 @@
+img{
+	max-width: 100%;
+	height: auto;
+}
+
+body{
+	font-size: 50px;
+}
+
+input[type="text"]{
+	width: 30%;
+	height: 30px;
+}
+
+input[type="submit"]{
+	width: 30%;
+	height: 30px;
+}
+input[type="password"]{
+	width: 30%;
+	height: 30px;
+}
+
+input[type="submit"]{
+	width: 10%;
+	height: 30px;
+}
+input[type="file"]{
+	width: 10%;
+	height: 30px;
+}
+
+
+
+textarea{
+	width: 50%;
+}
